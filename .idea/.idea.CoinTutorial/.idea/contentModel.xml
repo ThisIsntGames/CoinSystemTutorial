@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\loren\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\loren\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CoinTutorial.1551906759.00" t="ExcludeRecursive" />
+    <e p="D:\ThisIsntGames\BathThief\Tutorials\CoinTutorial" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="2Player" t="Include">
+            <e p="Coin2Player.cs" t="Include" />
+            <e p="GameData2Player.cs" t="Include" />
+            <e p="GameEvents2Player.cs" t="Include" />
+            <e p="PlayerIdentifier.cs" t="Include" />
+            <e p="PlumberController2.cs" t="Include" />
+          </e>
+          <e p="BuyBombs.cs" t="Include" />
+          <e p="Coin.cs" t="Include" />
+          <e p="CoinUIUpdater.cs" t="Include" />
+          <e p="DestroyOnSeconds.cs" t="Include" />
+          <e p="GameData.cs" t="Include" />
+          <e p="GameDataStore.cs" t="Include" />
+          <e p="GameEvents.cs" t="Include" />
+          <e p="PlumberController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="CoinTutorial.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
